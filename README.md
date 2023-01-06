@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dasoxori (Dimitris).
+- 👋 Hi, I’m Dimitris.
 
 - 👀 My vision of having a bachelor's degree in economics and a master's degree in information and communication systems is to create products and services that will improve people's lives. That's why my research focuses on bioinformatics leveraging artificial intelligence to implement predictive models using machine learning. The purpose is to support decision-making by medical staff in hospitals.
 
